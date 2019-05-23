@@ -9,6 +9,7 @@ public class User implements Serializable {
     private Date birthday;
     private String sex;
     private String address;
+    private String money;
 
     public void setId(Integer id) {
         this.id = id;

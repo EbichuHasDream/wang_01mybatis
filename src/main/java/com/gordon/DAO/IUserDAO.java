@@ -17,4 +17,5 @@ public interface IUserDAO {
     void saveUser(User user);
     void updateUser(User user);
     void deleteUser(Integer id);
+
 }
